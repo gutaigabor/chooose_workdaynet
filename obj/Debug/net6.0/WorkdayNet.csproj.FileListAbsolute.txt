@@ -1,0 +1,15 @@
+C:\own_projects\WorkdayNet\bin\Debug\net6.0\WorkdayNet.exe
+C:\own_projects\WorkdayNet\bin\Debug\net6.0\WorkdayNet.deps.json
+C:\own_projects\WorkdayNet\bin\Debug\net6.0\WorkdayNet.runtimeconfig.json
+C:\own_projects\WorkdayNet\bin\Debug\net6.0\WorkdayNet.dll
+C:\own_projects\WorkdayNet\bin\Debug\net6.0\WorkdayNet.pdb
+C:\own_projects\WorkdayNet\obj\Debug\net6.0\WorkdayNet.csproj.AssemblyReference.cache
+C:\own_projects\WorkdayNet\obj\Debug\net6.0\WorkdayNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\own_projects\WorkdayNet\obj\Debug\net6.0\WorkdayNet.AssemblyInfoInputs.cache
+C:\own_projects\WorkdayNet\obj\Debug\net6.0\WorkdayNet.AssemblyInfo.cs
+C:\own_projects\WorkdayNet\obj\Debug\net6.0\WorkdayNet.csproj.CoreCompileInputs.cache
+C:\own_projects\WorkdayNet\obj\Debug\net6.0\WorkdayNet.dll
+C:\own_projects\WorkdayNet\obj\Debug\net6.0\refint\WorkdayNet.dll
+C:\own_projects\WorkdayNet\obj\Debug\net6.0\WorkdayNet.pdb
+C:\own_projects\WorkdayNet\obj\Debug\net6.0\WorkdayNet.genruntimeconfig.cache
+C:\own_projects\WorkdayNet\obj\Debug\net6.0\ref\WorkdayNet.dll
